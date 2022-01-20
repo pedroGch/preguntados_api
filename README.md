@@ -10,4 +10,4 @@ npm install
 # Recomendaciones
 se recomienda tener instalado en tu pc:
   * nodemon
-  * sql
+  * pgAdmin 4

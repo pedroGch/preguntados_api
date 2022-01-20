@@ -5,9 +5,9 @@ api que contendra las preguntas y las respuestas de la aplicación preguntados
 npm install
 
 # Puesta en marcha
-npm start
+**npm start**
 
 # Recomendaciones
 se recomienda tener instalado en tu pc:
-  nodemon
-  sql
+  * nodemon
+  * sql
